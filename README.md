@@ -1,0 +1,1 @@
+Create an interactive real-time chat application using Laravel and Firebase Cloud Messaging (FCM). Users authenticate to chat securely, view registered users, and initiate conversations seamlessly. Enjoy a modern, efficient chat experience with robust authentication and messaging capabilities.
